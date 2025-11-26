@@ -48,3 +48,5 @@ This project is for educational use.
 ## 7.0 AUTHORS & CREDITS
 Iman A., Fitrah M.R., Zullaikha Z.
 Created as part of Intelligent Systems group assignment.
+
+Github link Fitrah M.R.: https://github.com/Fitrah-Humaira
